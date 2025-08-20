@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=300&text=Road%20to%20Engineer&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Doyeop's%20GitHub&descAlignY=70&descAlign=50&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=300&text=Road%20ㅆo%20Engineer&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Doyeop's%20GitHub&descAlignY=70&descAlign=50&descSize=20)
 
 
 ## Hi there 👋
