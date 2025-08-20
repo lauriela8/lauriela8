@@ -60,4 +60,5 @@ FPGA 기반 RTL 설계, RISC-V CPU 설계, 임베디드 시스템, AI+반도체 
 
 <br>
 
+![snake gif](https://github.com/lauriela8/lauriela8/blob/output/github-contribution-grid-snake.svg)
 
