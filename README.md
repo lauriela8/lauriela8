@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
-🚀 Tech Stack
+## 🚀 Tech Stack
+---
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=flat&logoColor=white)
