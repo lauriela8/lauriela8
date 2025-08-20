@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 🚀 Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,6 +28,7 @@ Here are some ideas to get you started:
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-F7931E?style=flat&logo=xilinx&logoColor=white)
 ![Synopsys](https://img.shields.io/badge/Synopsys-FF6F00?style=flat&logoColor=white)
+
 
 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=radical)
