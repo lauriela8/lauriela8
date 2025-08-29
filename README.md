@@ -17,12 +17,12 @@ FPGA 기반 RTL 설계, RISC-V CPU 설계, 임베디드 시스템, AI+반도체 
 
 ## 🎓 Education
 - 대한상공회의소 **AI 시스템 반도체 설계 과정 (2기)** – 2025.03 ~ 2025.10  (진행 중)     
-  (RTL 설계, FPGA 구현, 타이밍 분석, AI+반도체 융합 실습)
+  (RTL 설계 및 검증, 시스템 프로그래밍, Synopsys Design Compiler, AI 알고리즘과 구조)
 
-  - **FPGA/Verilog**: BASYS3 기반 디지털 회로, FSM, UART/FIFO, 센서 모듈 연동
-  - **FFT 설계 및 구현**: Verilog 기반 512 point FFT RTL 설계, FPGA 상에서 동작 검증
-  - **ARM Cortex-M STM32**: MCU 프로그래밍, Timer/PWM/Interrupt, 임베디드 게임 프로젝트  
-  - **AI & IoT**: CNN/LLM 기반 제스처 인식, 라즈베리파이 응용  
+  - RTL 설계 및 검증 (Verilog, SystemVerilog)  
+  - FPGA 설계 및 Synopsys Design Compiler 활용  
+  - MCU 프로그래밍 (C, Timer/PWM/UART, Interrupt)  
+  - AI 알고리즘 및 응용 (CNN, LLM, IoT)
 
 - 학사: 상명대학교 전자공학 졸업 (2023.02)
 
