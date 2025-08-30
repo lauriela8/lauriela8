@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=300&text=Road%20To%20Engineer&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Doyeop's%20GitHub&descAlignY=70&descAlign=50&descSize=20)
 
 
-## Hi there 👋
-안녕하세요, 반도체 설계 엔지니어를 목표로 공부하고 있는 임도엽입니다.  
-FPGA 기반 RTL 설계, RISC-V CPU 설계, 임베디드 시스템, AI+반도체 융합 프로젝트를 수행하며 설계부터 구현·검증까지 경험을 쌓고 있습니다.    
-효율적인 구조 설계와 성능 최적화에 관심이 많으며, 앞으로는 산업 현장에서 신뢰받는 설계 전문가로 성장하고자 합니다.
+## 👋 About Me
+반도체 설계 엔지니어를 목표로 공부하고 있는 임도엽입니다.  
+하드웨어와 소프트웨어를 아우르는 경험을 통해 **RTL 설계, 검증, 임베디드 시스템, AI+IoT 융합** 역량을 키워왔습니다.  
+
+특히 Verilog/SystemVerilog를 통한 회로 설계와 검증, MCU 프로그래밍, 그리고 EDA 툴 활용 경험을 통해 **설계부터 구현·최적화까지** 전 과정을 익혔습니다.  
+
+앞으로는 **효율적인 구조 설계와 성능 최적화**에 집중하여, 산업 현장에서 신뢰받는 반도체 설계 전문가로 성장하고자 합니다.
+
 
 <br>
 
@@ -32,9 +36,9 @@ FPGA 기반 RTL 설계, RISC-V CPU 설계, 임베디드 시스템, AI+반도체 
 | 프로젝트명 | 기술스택 | 설명 | 링크 |
 |------------|-----------|------|------|
 | 🖥️ RISC-V CPU Design | Verilog | 멀티 사이클 CPU 설계 | [Repo](링크 예정) |
-| 📡 FPGA FFT  | Verilog, FPGA | 512-point FFT RTL 설계 및 FPGA 상에서 동작 검증 | [Repo](링크 예정) |
-| 🔗 FPGA Multi-Module System | Verilog, FPGA | 초음파/온습도/시계 모듈 통합 시스템 | [Repo](링크 예정) |
+| 📡 FPGA 512-Point Fixed FFT  | Verilog, FPGA | 512-point FFT RTL 설계 및 FPGA 상에서 동작 검증 | [Repo](링크 예정) |
 | ✋ AI IoT Gesture Project | Python, CNN, LLM | 제스처 인식 기반 스마트홈 제어 | [Repo](링크 예정) |
+| 🔗 FPGA Multi-Module System | Verilog, FPGA | 초음파/온습도/시계 모듈 통합 시스템 | [Repo](링크 예정) |
 | 🎮 STM32 Dodge Rush | C, STM32 | ARM Cortex-M 기반 임베디드 게임 | [Repo](링크 예정) 
 
 <br>
