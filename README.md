@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=300&text=Road%20To%20Engineer&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Doyeop's%20GitHub&descAlignY=70&descAlign=50&descSize=20)
-
+![header](https://capsule-render.vercel.app/api?type=rect&section=header&height=200&text=Road%20To%20Engineer&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Doyeop's%20GitHub&descAlignY=70&descAlign=50&descSize=20)
 
 ## 👋 About Me
 반도체 설계 엔지니어를 목표로 공부하고 있는 임도엽입니다.  
