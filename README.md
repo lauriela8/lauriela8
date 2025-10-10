@@ -5,8 +5,7 @@ FPGA와 RTL 설계에 집중하며 **반도체 설계 엔지니어**를 목표�
 Verilog/SystemVerilog, EDA Tool(Vivado, Synopsys, VCS), 임베디드 시스템, 영상 처리 기반의 다양한 프로젝트를 수행하며  
 **설계부터 구현·검증까지의 전체 흐름**을 경험했습니다.  
 
-📘 프로젝트의 전체 개요와 활동 이력은 [Notion Portfolio](https://www.notion.so/23736fad22be8043b294c7b8438d87f0)에서,  
-각 프로젝트의 세부 기술 내용은 GitHub 리포지토리에서 확인할 수 있습니다.
+📘 프로젝트의 전체 개요와 활동 이력은 [Notion Portfolio](https://www.notion.so/23736fad22be8043b294c7b8438d87f0)에서, 각 프로젝트의 세부 기술 내용은 GitHub 리포지토리에서 확인할 수 있습니다.
 
 
 <br>
