@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&section=header&height=200&text=Road%20To%20Engineer&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Doyeop's%20GitHub&descAlignY=70&descAlign=50&descSize=20)
 
 ## 👋 About Me
-반도체 설계 엔지니어를 목표로 공부하고 있는 임도엽입니다.  
-하드웨어와 소프트웨어를 아우르는 경험을 통해 **RTL 설계, 검증, 임베디드 시스템, AI+IoT 융합** 역량을 키워왔습니다.  
+FPGA와 RTL 설계에 집중하며 **반도체 설계 엔지니어**를 목표로 성장하고 있습니다.  
+Verilog/SystemVerilog, EDA Tool(Vivado, Synopsys, VCS), 임베디드 시스템, 영상 처리 기반의 다양한 프로젝트를 수행하며  
+**설계부터 구현·검증까지의 전체 흐름**을 경험했습니다.  
 
-특히 Verilog/SystemVerilog를 통한 회로 설계와 검증, MCU 프로그래밍, 그리고 EDA 툴 활용 경험을 통해 **설계부터 구현·최적화까지** 전 과정을 익혔습니다.  
-
-앞으로는 **효율적인 구조 설계와 성능 최적화**에 집중하여, 산업 현장에서 신뢰받는 반도체 설계 전문가로 성장하고자 합니다.
+📘 프로젝트의 전체 개요와 활동 이력은 [Notion Portfolio](https://www.notion.so/23736fad22be8043b294c7b8438d87f0)에서,  
+각 프로젝트의 세부 기술 내용은 GitHub 리포지토리에서 확인할 수 있습니다.
 
 
 <br>
@@ -14,9 +14,6 @@
 ## 📬 Contact
 - **Email**  
   [![Gmail Badge](https://img.shields.io/badge/ehduqdl88@gmail.com-126304?style=flat-square&logo=gmail&logoColor=white)](mailto:ehduqdl88@gmail.com)
-- **Portfolio**  
-  [![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/23736fad22be8043b294c7b8438d87f0)
-
 
 <br>
 
