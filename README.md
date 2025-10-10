@@ -12,9 +12,11 @@
 <br>
 
 ## 📬 Contact
-- **Email**: ehduqdl88@gmail.com / wodlf0113@naver.com 
-- **GitHub**: [github.com/lauriela8](https://github.com/lauriela8)  
-- **Notion Portfolio**: [임도엽의 PortFolio](https://www.notion.so/23736fad22be815c9a14c056d6ad3ca2)  
+- **Email**  
+  [![Gmail Badge](https://img.shields.io/badge/ehduqdl88@gmail.com-126304?style=flat-square&logo=gmail&logoColor=white)](mailto:ehduqdl88@gmail.com)
+- **Portfolio**  
+  [![Notion Badge](https://img.shields.io/badge/Notion-Portfolio-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/23736fad22be815c9a14c056d6ad3ca2)
+
 
 <br>
 
