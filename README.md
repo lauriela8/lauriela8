@@ -32,7 +32,7 @@ Verilog/SystemVerilog, EDA Tool(Vivado, Synopsys, VCS), 임베디드 시스템, 
 ## 🚀 Projects
 | 프로젝트명 | 기술스택 | 설명 | 링크 |
 |------------|-----------|------|------|
-| 🖥️ RISC-V CPU Design | Verilog | 멀티 사이클 CPU 설계 | [Repo](링크 예정) |
+| 🖥️ RISC-V CPU Design | System Verilog | 멀티 사이클 CPU 설계 | [Repo](https://github.com/lauriela8/RISC-V_RV32I_CPU) |
 | 📡 FPGA 512-Point Fixed FFT  | Verilog, FPGA | 512-point FFT RTL 설계 및 FPGA 상에서 동작 검증 | [Repo](링크 예정) |
 | ✋ AI IoT Gesture Project | Python, CNN, LLM | 제스처 인식 기반 스마트홈 제어 | [Repo](링크 예정) |
 | 🔗 FPGA Multi-Module System | Verilog, FPGA | 초음파/온습도/시계 모듈 통합 시스템 | [Repo](링크 예정) |
