@@ -30,13 +30,16 @@ Verilog/SystemVerilog, EDA Tool(Vivado, Synopsys, VCS), 임베디드 시스템, 
 <br>
 
 ## 🚀 Projects
-| 프로젝트명 | 기술스택 | 설명 | 링크 |
-|------------|-----------|------|------|
-| 🖥️ RISC-V CPU Design | System Verilog | 멀티 사이클 CPU 설계 | [Repo](https://github.com/lauriela8/RISC-V_RV32I_CPU) |
-| 📡 FPGA 512-Point Fixed FFT  | Verilog, FPGA | 512-point FFT RTL 설계 및 FPGA 상에서 동작 검증 | [Repo](링크 예정) |
-| ✋ AI IoT Gesture Project | Python, CNN, LLM | 제스처 인식 기반 스마트홈 제어 | [Repo](https://github.com/chanwon3144/AI-PROJECT) |
-| 🔗 FPGA Multi-Module System | Verilog, FPGA | 초음파/온습도/시계 모듈 통합 시스템 | [Repo](링크 예정) |
-| 🎮 STM32 Dodge Rush | C, STM32 | ARM Cortex-M 기반 임베디드 게임 | [Repo](https://github.com/lauriela8/ARM_Project) 
+
+| 프로젝트 (Project) | 설명 (Description)  | 수행기관 (Organization) | 링크 (Links)  |
+| :--- | :--- | :---| :--- |
+| **VGA Filter & Camera System** <br> 📅 (25.09.16 ~ 25.09.30) | • **OV7670 카메라 입력**과 **VGA 출력**을 이용해 실시간 영상 처리 구현<br> • **Line Buffer 기반 필터 구조 (Sobel, Sharpen, Gaussian, Cartoon, Mirror, Ghost)** 설계<br> • **AXI4-Lite / APB 버스**를 통한 CPU–Peripheral 간 데이터 제어<br> • **FPGA 내부 Frame Buffer**로 동적 영상 처리 및 필터 전환 기능 구현 | 대한상공회의소 | [VGA_Filter_Project](링크 예정) |
+| **RISC-V RV32I CPU Design** <br> 📅 (25.08.14 ~ 25.08.29) | • **RISC-V 명령어 세트 기반 32-bit Single/Multi-Cycle CPU 설계**<br> • **DataPath / Control Unit / ALU / Register File** 직접 구현<br> • **Vivado, Synopsys VCS & Verdi**를 활용한 합성 및 시뮬레이션<br> • 모든 명령어 타입의 실행 검증 완료 | 대한상공회의소 | [RISC-V_RV32I_CPU](https://github.com/lauriela8/RISC-V_RV32I_CPU) |
+| **FPGA 512-Point Fixed FFT** <br> 📅 (25.05.10 ~ 25.05.30) | • **512-point Radix-2² SDF FFT 구조** 설계 및 검증<br> • **Fixed-Point 기반 Butterfly 연산**과 **CBFP(Common Block Floating Point)** 기법 적용<br> • **Adder 재사용**으로 자원 최적화 수행<br> • **Vivado FPGA 검증 및 Bitstream 생성 완료** | 대한상공회의소 | [FFT_512point_Project](링크 예정) |
+| **AI IoT Gesture Project** <br> 📅 (25.02.01 ~ 25.03.15) | • **Mediapipe Hand Landmark 기반** 제스처 인식 모델 설계<br> • **TFLite 변환**을 통한 추론 속도 최적화 및 **LLM(Gemma3)** 기반 자연어 명령 해석<br> • **라즈베리파이–ESP8266–IoT 기기 제어** 통합 구현<br> • 제스처 + 음성 명령 기반 **스마트홈 멀티모달 제어 시스템** 구축 | 대한상공회의소 | [AI_IoT_Gesture_Project](https://github.com/chanwon3144/AI-PROJECT) |
+| **FPGA Multi-Module System** <br> 📅 (25.04.10 ~ 25.04.25)   | • **초음파, 온습도, 시계 모듈**을 APB 기반으로 통합<br> • **FND, LCD, GPO, GPI** 등 주변장치 제어 및 데이터 통신 설계<br> • FPGA 상에서 **모듈 간 타이밍 동기화 및 인터페이스 검증** 수행 | 대한상공회의소 | [FPGA_MultiModule_System](링크 예정) |
+| **STM32 Dodge Rush Game** <br> 📅 (25.01.10 ~ 25.01.25) | • **ARM Cortex-M3 기반 STM32 보드**에서 게임 로직 구현<br> • **Timer, UART, Interrupt**를 이용해 캐릭터 이동·충돌·시간 처리<br> • **LCD 및 조이스틱 입력 처리**를 통한 실시간 그래픽 출력 | 대한상공회의소 | [ARM_Project](https://github.com/lauriela8/ARM_Project) |
+
 
 <br>
 
