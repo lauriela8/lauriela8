@@ -62,7 +62,3 @@ Verilog/SystemVerilog, EDA Tool(Vivado, Synopsys, VCS), 임베디드 시스템, 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lauriela8&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauriela8&layout=compact&theme=radical)
 
-<br>
-
-![snake gif](https://github.com/lauriela8/lauriela8/blob/output/github-contribution-grid-snake.svg)
-
